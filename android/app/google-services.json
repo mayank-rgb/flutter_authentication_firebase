@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "165279486779",
+    "project_id": "auth-display",
+    "storage_bucket": "auth-display.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165279486779:android:21e96d551f89b2031d1d1e",
+        "android_client_info": {
+          "package_name": "com.mayankrgb.authentication_display"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165279486779-sdd704j3a83561trcn3islfjo5mijg14.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mayankrgb.authentication_display",
+            "certificate_hash": "8ea95f8868bdd7aae6d3f783595d863843b46605"
+          }
+        },
+        {
+          "client_id": "165279486779-ricr7lpttevaf36qt2otqhtd7q1dns28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3P4ZHKXMRvMaowuyTKNQq0nZKWL0EkCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165279486779-ricr7lpttevaf36qt2otqhtd7q1dns28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
